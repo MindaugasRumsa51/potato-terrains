@@ -1,0 +1,48 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/CrosshatchHexagon
+  rotate: false
+  xy: 4, 104
+  size: 277, 240
+  orig: 277, 240
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Hexagon
+  rotate: false
+  xy: 289, 79
+  size: 257, 265
+  orig: 257, 265
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Iceland
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mariana Trench
+  rotate: false
+  xy: 76, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Iceland
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mariana Trench
+  rotate: false
+  xy: 554, 288
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
